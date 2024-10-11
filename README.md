@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BRIAN-OGOL
+- 👀 I’m interested in getting new challenging ideas on coding
+- 🌱 I’m currently learning python,sql,power bi, data science
+- 💞️ I’m looking to collaborate on all field concerning data
+- 📫 How to reach me just call +254711153718
